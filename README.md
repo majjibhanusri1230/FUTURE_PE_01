@@ -24,6 +24,7 @@ This project shows how prompt engineering can create a full 🎥 YouTube content
 📄 prompt_chain_document.md – Step-by-step prompt workflow
 ✍️ youtube_script.cd – YouTube-ready script with timestamps
 🎥 Video.md – Video plan / storyboard
-🖼 thumbnail_script – Thumbnail text + visual AI prompt + final image
+🖼 thumbnail_script.md – Thumbnail text + visual AI prompt + final image
+🖼 Thumbnail_image.jpg – Final thumbnail image file
 
 ✅ Clean, fast, and AI-powered — made with ❤️ by Bhanu Sri 🚀
